@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cab51e79-85bd-4050-be32-a312efa77d6b" name="Default" comment="Added all my old Project Euler">
-      <change type="MOVED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\2. Even Fibonacci numbers.py" afterPath="$PROJECT_DIR$/002. Even Fibonacci numbers.py" />
+    <list default="true" id="cab51e79-85bd-4050-be32-a312efa77d6b" name="Default" comment="Updated 1 number">
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\10.Summation of primes.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\12. Highly divisible triangular number.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\13. Large sum.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\14. Longest Collatz Sequence.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\16. Power digit sum.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\17. Number letter counts.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\22. Names scores.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\24. Lexi Permutations.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\25. 1000-digit Fibonacci number.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\26. Reciprocal cycles.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\27. Quadratic primes.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\28. Number spiral diagonals.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\3. Largest prime factor.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\4. Largest palindrome product.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\5. Smallest multiple(US).py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\5. Smallest multiple.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\67. Maximum path sum II.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\7. 10001st Prime.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\8. Largest product in a series.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\92. Square digit chains.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectEuler.iws" />
@@ -292,7 +311,11 @@
       <created>1457601076897</created>
       <updated>1457601076897</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated 1 number">
+      <created>1457601272927</created>
+      <updated>1457601272927</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -339,7 +362,8 @@
     <MESSAGE value="Sams Push" />
     <MESSAGE value="Sams second Push" />
     <MESSAGE value="Added all my old Project Euler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all my old Project Euler" />
+    <MESSAGE value="Updated 1 number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated 1 number" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
