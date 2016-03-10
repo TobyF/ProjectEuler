@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cab51e79-85bd-4050-be32-a312efa77d6b" name="Default" comment="Updated 1 number">
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\10.Summation of primes.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\12. Highly divisible triangular number.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\13. Large sum.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\14. Longest Collatz Sequence.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\16. Power digit sum.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\17. Number letter counts.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\22. Names scores.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\24. Lexi Permutations.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\25. 1000-digit Fibonacci number.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\26. Reciprocal cycles.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\27. Quadratic primes.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\28. Number spiral diagonals.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\3. Largest prime factor.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\4. Largest palindrome product.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\5. Smallest multiple(US).py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\5. Smallest multiple.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\67. Maximum path sum II.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\7. 10001st Prime.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\8. Largest product in a series.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Toby\PycharmProjects\Project Euler\ProjectEuler\92. Square digit chains.py" afterPath="" />
+    <list default="true" id="cab51e79-85bd-4050-be32-a312efa77d6b" name="Default" comment="Updated all numbers to Length 3">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/003. Largest prime factor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/004. Largest palindrome product.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/005. Smallest multiple(US).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/005. Smallest multiple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/007. 10001st Prime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/008. Largest product in a series.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/010.Summation of primes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/012. Highly divisible triangular number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/013. Large sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/014. Longest Collatz Sequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/016. Power digit sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/017. Number letter counts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/022. Names scores.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/024. Lexi Permutations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/025. 1000-digit Fibonacci number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/026. Reciprocal cycles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/027. Quadratic primes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/028. Number spiral diagonals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/067. Maximum path sum II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/092. Square digit chains.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectEuler.iws" />
@@ -315,7 +315,11 @@
       <created>1457601272927</created>
       <updated>1457601272927</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated all numbers to Length 3">
+      <created>1457601571885</created>
+      <updated>1457601571885</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -363,7 +367,8 @@
     <MESSAGE value="Sams second Push" />
     <MESSAGE value="Added all my old Project Euler" />
     <MESSAGE value="Updated 1 number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated 1 number" />
+    <MESSAGE value="Updated all numbers to Length 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated all numbers to Length 3" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
